@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Oliver Baumann"
 title_separator          : "-"
-name                     : &name "Oliver Baumann"
-description              : &description "Research and Curriculum Vitae of Oliver Baumann"
+name                     : &name "Oliver Baumann Strategic Organization Design University of Southern Denmark"
+description              : &description "Research and CV of Oliver Baumann University of Southern Denmark"
 url                      : https://oliverbaumann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oliverbaumann.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -73,15 +73,15 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "UA-12889570-7"
 
 
 # Site Author
 author:
   name             : "Oliver Baumann"
-  avatar           : "profile.png"
+  avatar           : "OliverBaumann.png"
   bio              : "Professor with special responsibilities in Strategic Organization Design"
-  location         : "Odense, Denmark"
+  location         :
   employer         : "University of Southern Denmark"
   googlescholar    : "https://scholar.google.com/citations?user=u5sAPZYAAAAJ&hl=en"
   email            : "oliv@sam.sdu.dk"
