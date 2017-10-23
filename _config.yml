@@ -82,9 +82,9 @@ author:
   avatar           : "profile.png"
   bio              : "Professor with special responsibilities in Strategic Organization Design"
   location         : "Odense, Denmark"
-  employer         :
+  employer         : "University of Southern Denmark"
   googlescholar    : "https://scholar.google.com/citations?user=u5sAPZYAAAAJ&hl=en"
-  email            :
+  email            : "oliv@sam.sdu.dk"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,14 +97,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/oliverbaumann"
+  orcid            : "https://orcid.org/0000-0002-0797-9464"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
