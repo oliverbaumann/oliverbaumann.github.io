@@ -16,6 +16,12 @@ Methodologically, I mainly develop formal theory through *computational models* 
 
 In addition to computational modeling, I have also engaged in in-depth field studies of individual firms that organize complex systems development. In other work that goes beyond the two research questions above, I have used archival data to study R&D outsourcing in the healthcare sector; I have discussed the role of organization theory for research on information systems; and I have analyzed the or-ganizational tradeoffs faced by business incubators that “assemble” new ventures.
 
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
