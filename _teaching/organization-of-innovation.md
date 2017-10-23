@@ -2,9 +2,9 @@
 title: "Organization of Innovation"
 collection: teaching
 type: "M.Sc. in Business and Economics"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/organization-of-innovation
 venue: "University of Southern Denmark"
-date: 2013-present
+date: 2018-02-01
 location: "Odense, Denmark"
 ---
 

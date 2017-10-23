@@ -2,9 +2,9 @@
 title: "Business Performance Management"
 collection: teaching
 type: "Executive MBA program"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/business-performance-management
 venue: "University of Southern Denmark"
-date: 2015-present
+date: 2017-09-01
 location: "Odense, Denmark"
 ---
 
