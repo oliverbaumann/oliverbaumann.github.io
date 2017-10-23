@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Organization of Innovation"
 collection: teaching
 type: "M.Sc. in Business and Economics"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Southern Denmark"
-date: 2013-02-01
+date: 2013-present
 location: "Odense, Denmark"
 ---
 
