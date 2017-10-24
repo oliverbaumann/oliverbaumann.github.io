@@ -7,12 +7,8 @@ author_profile: true
 
 My research is at the intersection of **organization design, innovation, and strategy**. In particular, my research focuses on two broad questions:
 
-**1. How can organizations best cope with complexity?
-2. How can organizations incentivize and control innovation?**
-
-Theoretically, I conceive of **innovation as search and learning processes** by agents that possess only bounded rationality. In doing so, my work builds on accounts of organizational problem solving and decision making in the tradition of the behavioral theory of the firm and evolutionary economics.
-
-Methodologically, I mainly develop formal theory through **computational models that conceptualize firms as complex adaptive systems**. Because such models allow studying how macro-level behavior and performance emerge from the behavior and interaction of lower-level agents (e.g., individuals, units, or firms that engage in search), they can help uncover novel mechanisms and describe the conditions under which they apply.
+1. How can organizations best cope with complexity?
+2. How can organizations incentivize and control innovation?
 
 How to cope with complexity?
 ---------------------------
