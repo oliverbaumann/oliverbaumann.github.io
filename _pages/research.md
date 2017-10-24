@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Papers"
+permalink: /papers/
 author_profile: true
 ---
 
-My research is at the intersection of **organization design, innovation, and strategy**. In particular, my research focuses on two broad questions:
+My research is at the intersection of organization design, innovation, and strategy. In particular, my research focuses on two broad questions:
 
 1. How can organizations best cope with complexity?
 2. How can organizations incentivize and control innovation?
@@ -22,7 +22,7 @@ How to cope with complexity?
 *	Oliver Baumann. 2009. “Innovation in komplexen Systemen: Wann zahlt es sich aus, Fehlschläge geduldig zu tolerieren?” zfo – Zeitschrift Führung und Organisation, 4, 240-244.
 *	Arnold Picot and Oliver Baumann. 2007. “Modularität in der verteilten Entwicklung komplexer Systeme: Chancen, Grenzen, Implikationen.” Journal für Betriebswirtschaft, 57, 3-4, 221-246.
 
-How to incentive and control innovation?
+How to incentivize and control innovation?
 ----------------------------------------
 *	Oliver Baumann and Nils Stieglitz. 2014. “Rewarding Value-Creating Ideas in Organizations: The Power of Low-Powered Incentives.” Strategic Management Journal, 35, 3, 358-375.
 
