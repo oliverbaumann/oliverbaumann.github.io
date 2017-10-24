@@ -5,12 +5,12 @@ permalink: /papers/
 author_profile: true
 ---
 
-My research is at the intersection of organization design, innovation, and strategy. In particular, my research focuses on two broad questions:
+My research is at the intersection of organization design, innovation, and strategy. In particular, my focus is on two broad questions:
 
 1. How can organizations best cope with complexity?
 2. How can organizations incentivize and control innovation?
 
-# Complexity
+## Complexity
 
 **Models of Complex Adaptive Systems in Strategy and Organization Research**  
 *Mind & Society*, 14 (2015): 169-183.
@@ -39,14 +39,12 @@ My research is at the intersection of organization design, innovation, and strat
 **Modularität in der verteilten Entwicklung komplexer Systeme: Chancen, Grenzen, Implikationen**  
 (with Arnold Picot). *Journal für Betriebswirtschaft*, 57 (2007): 221-246.
 
-
-# Control
+## Control
 
 **Rewarding Value-Creating Ideas in Organizations: The Power of Low-Powered Incentives**  
 (with Nils Stieglitz). *Strategic Management Journal* 35 (2014): 358-375.
 
-
-# Health care, information systems
+## Health care, information systems
 
 **The Relevance of Organization Theory to the Field of Business and Information Systems Engineering**  
 (with Arnold Picot). *Business & Information Systems Engineering* 1 (2009): 62-69.
@@ -56,6 +54,3 @@ My research is at the intersection of organization design, innovation, and strat
 
 **Firm Boundary Decisions: The Market for Health-Related R&D Services with an Empirical Case Study for Germany**  
 (with Hariolf Grupp). *International Economics and Economic Policy*, 5 (2008): 297-321.
-
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
