@@ -12,6 +12,37 @@ My research is at the intersection of organization design, innovation, and strat
 
 How to cope with complexity?
 ---------------------------
+
+Models of Complex Adaptive Systems in Strategy and Organization Research
+*Mind & Society*, 14 (2015): 169-183.
+
+Distributed Problem Solving in Modular Systems: The Benefit of Temporary Coordination Neglect
+*Systems Research and Behavioral Science*, 32 (2015): 124-136.
+
+Learning from a Drastic Failure: Lessons from the Airbus A380 Program
+(with Isabel Dörfler). *Industry and Innovation*, 21 (2014): 197-214.
+
+Dealing with Complexity: Chunky vs. Incremental Search Processes
+(with Nicolaj Siggelkow). *Organization Science*, 24 (2013): 116-132.
+
+Complexity in the Telecommunications Industry: When Integrating Infrastructure and Services Backfires
+(with Nico Grove). *Telecommunications Policy*, 36 (2012): 40-50.
+
+Evaluating the New: The Contingent Value of a Pro-Innovation Bias
+(with Dirk Martignoni). *Schmalenbach Business Review*, 63 (2011): 349-371.
+
+Search, Failure, and the Value of Moderate Patience
+*Schmalenbach Business Review*, 62 (2010): 233-258.
+
+Innovation in komplexen Systemen: Wann zahlt es sich aus, Fehlschläge geduldig zu tolerieren?
+*zfo – Zeitschrift Führung und Organisation*, 4 (2010): 240-244.
+
+Modularität in der verteilten Entwicklung komplexer Systeme: Chancen, Grenzen, Implikationen
+(with Arnold Picot). *Journal für Betriebswirtschaft*, 57 (2007): 221-246.
+
+
+How to cope with complexity?
+---------------------------
 *	Oliver Baumann. 2015. “Models of Complex Adaptive Systems in Strategy and Organization Research.” Mind & Society, 14, 2, 169-183.
 *	Oliver Baumann. 2015. “Distributed Problem Solving in Modular Systems: The Benefit of Temporary Coordination Neglect.” Systems Research and Behavioral Science, 32, 1, 124-136.
 *	Isabel Dörfler and Oliver Baumann. 2014. “Learning from a Drastic Failure: Lessons from the Airbus A380 Program.” Industry and Innovation, 21, 3, 197-214.
