@@ -39,12 +39,12 @@ My research is at the intersection of organization design, innovation, and strat
 **Modularität in der verteilten Entwicklung komplexer Systeme: Chancen, Grenzen, Implikationen**  
 (with Arnold Picot). *Journal für Betriebswirtschaft*, 57 (2007): 221-246.
 
-## Control
+## Incentives and Control
 
 **Rewarding Value-Creating Ideas in Organizations: The Power of Low-Powered Incentives**  
 (with Nils Stieglitz). *Strategic Management Journal* 35 (2014): 358-375.
 
-## Health care, information systems
+## Other papers (health care, information systems)
 
 **The Relevance of Organization Theory to the Field of Business and Information Systems Engineering**  
 (with Arnold Picot). *Business & Information Systems Engineering* 1 (2009): 62-69.
