@@ -12,7 +12,7 @@ My research is at the intersection of organization design, innovation, and strat
 
 ## Coping with Complexity
 
-**[Models of Complex Adaptive Systems in Strategy and Organization Research](https://doi.org/10.1007/s11299-015-0168-x)**  
+[Models of Complex Adaptive Systems in Strategy and Organization Research](https://doi.org/10.1007/s11299-015-0168-x)  
 *Mind & Society*, 14 (2015): 169-183.
 
 **Distributed Problem Solving in Modular Systems: The Benefit of Temporary Coordination Neglect**  
