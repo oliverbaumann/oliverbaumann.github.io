@@ -12,13 +12,13 @@ My research is at the intersection of organization design, innovation, and strat
 
 ## Coping with Complexity
 
-[Models of Complex Adaptive Systems in Strategy and Organization Research](http://doi.org/10.1007/s11299-015-0168-x)  
+**[Models of Complex Adaptive Systems in Strategy and Organization Research](http://doi.org/10.1007/s11299-015-0168-x)**  
 *Mind & Society*, 14 (2015): 169-183.
 
-**Distributed Problem Solving in Modular Systems: The Benefit of Temporary Coordination Neglect**  
+**[Distributed Problem Solving in Modular Systems: The Benefit of Temporary Coordination Neglect](http://dx.doi.org/10.1002/sres.2218)**  
 *Systems Research and Behavioral Science*, 32 (2015): 124-136.
 
-**Learning from a Drastic Failure: Lessons from the Airbus A380 Program**  
+**[Learning from a Drastic Failure: Lessons from the Airbus A380 Program](http://dx.doi.org/10.1080/13662716.2014.910891)**  
 (with Isabel Dörfler). *Industry and Innovation*, 21 (2014): 197-214.
 
 **Dealing with Complexity: Chunky vs. Incremental Search Processes**  
