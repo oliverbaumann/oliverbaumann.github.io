@@ -7,7 +7,7 @@ author_profile: true
 
 My research is at the intersection of organization design, innovation, and strategy. In particular, my focus is on two broad questions:
 
-1. How can organizations best cope with complexity?
+1. How can organizations cope with complexity?
 2. How can organizations incentivize and control innovation?
 
 ## Coping with Complexity
