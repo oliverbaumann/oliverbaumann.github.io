@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Research and Papers"
 permalink: /research/
 author_profile: true

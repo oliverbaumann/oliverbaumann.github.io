@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "External Funding"
 permalink: /funding/
 author_profile: true
