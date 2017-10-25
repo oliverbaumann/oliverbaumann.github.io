@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Papers"
-permalink: /papers/
+title: "Research and Papers"
+permalink: /research/
 author_profile: true
 ---
 
@@ -10,7 +10,7 @@ My research is at the intersection of organization design, innovation, and strat
 1. How can organizations best cope with complexity?
 2. How can organizations incentivize and control innovation?
 
-## Complexity
+## Coping with Complexity
 
 **Models of Complex Adaptive Systems in Strategy and Organization Research**  
 *Mind & Society*, 14 (2015): 169-183.
@@ -39,12 +39,12 @@ My research is at the intersection of organization design, innovation, and strat
 **Modularität in der verteilten Entwicklung komplexer Systeme: Chancen, Grenzen, Implikationen**  
 (with Arnold Picot). *Journal für Betriebswirtschaft*, 57 (2007): 221-246.
 
-## Incentives and Control
+## Incentivizing and Controlling Innovation
 
 **Rewarding Value-Creating Ideas in Organizations: The Power of Low-Powered Incentives**  
 (with Nils Stieglitz). *Strategic Management Journal* 35 (2014): 358-375.
 
-## Other papers (health care, information systems)
+## Other Papers (Health Care, Information Systems)
 
 **The Relevance of Organization Theory to the Field of Business and Information Systems Engineering**  
 (with Arnold Picot). *Business & Information Systems Engineering* 1 (2009): 62-69.

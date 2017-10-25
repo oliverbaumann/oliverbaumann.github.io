@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Papers"
-    url: /papers/
-
-  - title: "Funding"
-    url: /funding/
+  - title: "Research"
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Funding"
+    url: /funding/
 
   - title: "Blog Posts"
     url: /year-archive/
