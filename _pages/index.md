@@ -10,6 +10,9 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 title: "Oliver Baumann"
 excerpt: "Oliver Baumann"
+redirect_from:
+  - /index/
+  - /index.html
 ---
 
 I am a Professor with special responsibilities at the University of Southern Denmark, where I am a part of the [Strategic Organization Design](http://www.sod-research.com) unit.
