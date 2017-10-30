@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Oliver Baumann"
+excerpt: "Oliver Baumann"
 author_profile: true
 redirect_from:
   - /about/
