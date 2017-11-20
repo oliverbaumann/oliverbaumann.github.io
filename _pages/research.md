@@ -27,10 +27,10 @@ My research is at the intersection of organization design, innovation, and strat
 **[Complexity in the Telecommunications Industry: When Integrating Infrastructure and Services Backfires](https://doi.org/10.1016/j.telpol.2011.11.019)**  
 (with Nico Grove). *Telecommunications Policy*, 36 (2012): 40-50.
 
-**[Evaluating the New: The Contingent Value of a Pro-Innovation Bias](/files/Baumann_Martignoni_2011_Pro-innovation_bias.pdf)**  
+**[Evaluating the New: The Contingent Value of a Pro-Innovation Bias](https://doi.org/10.1007/BF03396826)**  
 (with Dirk Martignoni). *Schmalenbach Business Review*, 63 (2011): 349-371.
 
-**[Search, Failure, and the Value of Moderate Patience](/files/Baumann_2010_Search_failure_patience.pdf)**  
+**[Search, Failure, and the Value of Moderate Patience](https://doi.org/10.1007/BF03396806)**  
 *Schmalenbach Business Review*, 62 (2010): 233-258.
 
 **Innovation in komplexen Systemen: Wann zahlt es sich aus, Fehlschläge geduldig zu tolerieren?**
