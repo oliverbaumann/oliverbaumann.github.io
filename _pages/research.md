@@ -41,6 +41,9 @@ My research is at the intersection of organization design, innovation, and strat
 
 ## Incentivizing and Controlling Innovation
 
+**[Colleagues and Competitors: How Internal Social Comparisons Shape Organizational Search and Adaptation](http://dx.doi.org/10.1177/0001839218766310)**  
+(with JP Eggers and Nils Stieglitz). *Administrative Science Quarterly* (forthcoming).
+
 **[Rewarding Value-Creating Ideas in Organizations: The Power of Low-Powered Incentives](http://dx.doi.org/10.1002/smj.2093)**  
 (with Nils Stieglitz). *Strategic Management Journal* 35 (2014): 358-375.
 
