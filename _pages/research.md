@@ -12,6 +12,8 @@ My research is at the intersection of organization design, innovation, and strat
 
 ## Coping with Complexity
 
+**[Effective Search in Rugged Performance Landscapes: A Review and Outlook](https://doi.org/10.1177%2F0149206318808594)** (with Jens Schmidt and Nils Stieglitz). *Journal of Management*, 45 (2019): 258-318.
+
 **[Models of Complex Adaptive Systems in Strategy and Organization Research](http://doi.org/10.1007/s11299-015-0168-x)**  
 *Mind & Society*, 14 (2015): 169-183.
 
@@ -47,7 +49,9 @@ My research is at the intersection of organization design, innovation, and strat
 **[Rewarding Value-Creating Ideas in Organizations: The Power of Low-Powered Incentives](http://dx.doi.org/10.1002/smj.2093)**  
 (with Nils Stieglitz). *Strategic Management Journal* 35 (2014): 358-375.
 
-## Other Papers (Health Care, Information Systems)
+## Other Publications (Organization Design, Business Venturing, Health Care, Information Systems)
+
+**[Rocket Internet: Organizing a Startup Factory](https://doi.org/10.1186/s41469-018-0037-2)** (with Carsten Bergenholtz, Lars Frederiksen, Robert M. Grant, Rebecca Köhler, David L. Preston and Scott Shane). *Journal of Organization Design* 7 (2018).
 
 **[The Relevance of Organization Theory to the Field of Business and Information Systems Engineering](https://doi.org/10.1007/s12599-008-0027-y)**  
 (with Arnold Picot). *Business & Information Systems Engineering* 1 (2009): 62-69.

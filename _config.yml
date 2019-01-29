@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Oliver Baumann"
 title_separator          : "-"
-name                     : &name "Oliver Baumann - Strategic Organization Design - University of Southern Denmark"
+name                     : &name "Oliver Baumann - Strategic Organization Design - University of Southern Denmark (SDU)"
 description              : &description "Research and CV of Oliver Baumann - University of Southern Denmark"
 url                      : https://oliverbaumann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "OliverBaumannDK"
   vine             :
   weibo            :
   xing             :

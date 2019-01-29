@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor with special responsibilities at the University of Southern Denmark, where I am a part of the [Strategic Organization Design](http://www.sod-research.com) unit.
+I am a Professor with special responsibilities at the [University of Southern Denmark (SDU)](http://sdu.dk), where I am a part of the [Strategic Organization Design](http://www.sod-research.com) unit.
 
-My research is at the intersection of organization design, innovation, and strategy. In particular, I study how firms can be organized to innovate effectively in complex and changing environments. Conceptualizing innovation as a search and learning process, I mainly develop formal theory through computational models of firms as complex adaptive systems. My research has been published or is forthcoming in Administrative Science Quarterly, Journal of Management, Organization Science, and the Strategic Management Journal, among others.
+My research is at the intersection of organization design, innovation, and strategy. In particular, I study how firms can be organized to innovate and adapt effectively in complex and changing environments. Conceptualizing innovation as a search and learning process, I mainly develop formal theory through computational models of firms as complex adaptive systems. My research has been published or is forthcoming in Administrative Science Quarterly, Journal of Management, Organization Science, and the Strategic Management Journal, among others.
 
 I received a Ph.D. in Business Economics from LMU Munich, a Diplom-Wirtschaftsingenieur from the Karlsruhe Institute of Technology, and an M.S. in Engineering Management from Portland State University. Prior to joining the University of Southern Denmark, I was a visiting scholar at the Wharton School, University of Pennsylvania, and an Assistant Professor at LMU Munich.
 
