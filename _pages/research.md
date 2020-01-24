@@ -5,10 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-My research is at the intersection of organization design, innovation, and strategy. In particular, my focus is on two broad questions:
+My research addresses questions of organizational search, learning, and adaptation. In particular, my focus is on two broad questions:
 
 1. How can organizations cope with complexity?
-2. How can organizations incentivize and control innovation?
+2. How can organizations control learning processes?
 
 ## Coping with Complexity
 
@@ -41,7 +41,7 @@ My research is at the intersection of organization design, innovation, and strat
 **[Modularität in der verteilten Entwicklung komplexer Systeme: Chancen, Grenzen, Implikationen](https://doi.org/10.1007/s11301-007-0029-8)**  
 (with Arnold Picot). *Journal für Betriebswirtschaft*, 57 (2007): 221-246.
 
-## Incentivizing and Controlling Innovation
+## Controlling Organizational Learning
 
 **[Colleagues and Competitors: How Internal Social Comparisons Shape Organizational Search and Adaptation](http://dx.doi.org/10.1177/0001839218766310)**  
 (with JP Eggers and Nils Stieglitz). *Administrative Science Quarterly* (forthcoming).
