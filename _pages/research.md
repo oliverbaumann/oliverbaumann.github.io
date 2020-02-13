@@ -5,10 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-My research addresses questions of organizational search, learning, and adaptation. In particular, my focus is on two broad questions:
+My research addresses questions of organizational design, learning, and adaptation. In particular, my focus is on two broad questions:
 
 1. How can organizations cope with complexity?
-2. How can organizations control learning processes?
+2. How can organizations control their learning processes?
 
 ## Coping with Complexity
 
