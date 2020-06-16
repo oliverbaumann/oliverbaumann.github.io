@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an industrial engineer turned organizational scholar. I am fascinated by the notion of organizations as complex adaptive systems and by the power of computational approaches for understanding their dynamics. My research focuses on questions of organizational design, learning, and adaptation. My work is mainly theoretical but seeks to build bridges to various application domains such as corporate strategy or new product development. In particular, I address two broad questions:
+I am an industrial engineer turned organizational scholar. I am fascinated by the notion of organizations as complex adaptive systems and by the power of computational approaches for understanding their dynamics. My research focuses on questions of organizational design, learning, and adaptation. It is mainly theoretical, but seeks to build bridges to various application domains such as corporate strategy or new product development. In particular, I address two broad questions:
 
 1. How does organizational design affect a firm’s ability to deal with complex (interdependent) decision problems?
 2. How does organizational design affect a firm’s ability to learn and adapt?

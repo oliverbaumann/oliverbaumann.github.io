@@ -25,7 +25,7 @@ My research addresses questions of organizational design, learning, and adaptati
 **[Learning from a Drastic Failure: Lessons from the Airbus A380 Program](http://dx.doi.org/10.1080/13662716.2014.910891)**  
 (with Isabel Dörfler). *Industry and Innovation*, 21 (2014): 197-214.
 
-**[Dealing with Complexity: Chunky vs. Incremental Search Processes](https://doi.org/10.1287/orsc.1110.0729)**  
+**[Dealing with Complexity: Integrated vs. Chunky Search Processes](https://doi.org/10.1287/orsc.1110.0729)**  
 (with Nicolaj Siggelkow). *Organization Science*, 24 (2013): 116-132.
 
 **[Complexity in the Telecommunications Industry: When Integrating Infrastructure and Services Backfires](https://doi.org/10.1016/j.telpol.2011.11.019)**  
@@ -46,14 +46,14 @@ My research addresses questions of organizational design, learning, and adaptati
 ## Learning and Adaptation
 
 **[Colleagues and Competitors: How Internal Social Comparisons Shape Organizational Search and Adaptation](http://dx.doi.org/10.1177/0001839218766310)**  
-(with JP Eggers and Nils Stieglitz). *Administrative Science Quarterly* (forthcoming).
+(with JP Eggers and Nils Stieglitz). *Administrative Science Quarterly*, 64 (2019), 275-309.
 
 **[Rewarding Value-Creating Ideas in Organizations: The Power of Low-Powered Incentives](http://dx.doi.org/10.1002/smj.2093)**  
 (with Nils Stieglitz). *Strategic Management Journal* 35 (2014): 358-375.
 
 ## Other Publications (Organization Design, Business Venturing, Health Care, Information Systems)
 
-**[Reviewing, Revisiting, and Renewing the Foundations of Organization Design](https://doi.org/10.1108/S0742-332220180000040012)** (with John Joseph, Richard Burton and Kannan Srikanth). *Organization Design (Advances in Strategic Management*) 40 (2018), Emerald Publishing Limited, 1-23. 
+**[Reviewing, Revisiting, and Renewing the Foundations of Organization Design](https://doi.org/10.1108/S0742-332220180000040012)** (with John Joseph, Richard Burton and Kannan Srikanth). *Organization Design (Advances in Strategic Management*) 40 (2018), Emerald Publishing Limited, 1-23.
 
 **[Rocket Internet: Organizing a Startup Factory](https://doi.org/10.1186/s41469-018-0037-2)** (with Carsten Bergenholtz, Lars Frederiksen, Robert M. Grant, Rebecca Köhler, David L. Preston and Scott Shane). *Journal of Organization Design* 7 (2018).
 
