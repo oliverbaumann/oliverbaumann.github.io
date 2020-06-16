@@ -7,10 +7,12 @@ author_profile: true
 
 My research addresses questions of organizational design, learning, and adaptation. In particular, my focus is on two broad questions:
 
-1. How can organizations cope with complexity?
-2. How can organizations control their learning processes?
+1. How does organizational design affect a firm's ability to deal with complex (interdependent) decision problems?
+2. How does organizational design affect a firm's ability to learn and adapt?
 
-## Coping with Complexity
+## Dealing with Complexity
+
+**[Ensuring Adaptation While Seeking Efficiency: Tiered Outsourcing and Skip-Level Supplier Ties in the Airbus A350 Program](https://doi.org/10.1287/orsc.2019.1341)** (with Markus C. Becker and Isabel Horrmann). *Organization Science*, online in advance.
 
 **[Effective Search in Rugged Performance Landscapes: A Review and Outlook](https://doi.org/10.1177%2F0149206318808594)** (with Jens Schmidt and Nils Stieglitz). *Journal of Management*, 45 (2019): 258-318.
 
@@ -41,7 +43,7 @@ My research addresses questions of organizational design, learning, and adaptati
 **[Modularität in der verteilten Entwicklung komplexer Systeme: Chancen, Grenzen, Implikationen](https://doi.org/10.1007/s11301-007-0029-8)**  
 (with Arnold Picot). *Journal für Betriebswirtschaft*, 57 (2007): 221-246.
 
-## Controlling Organizational Learning
+## Learning and Adaptation
 
 **[Colleagues and Competitors: How Internal Social Comparisons Shape Organizational Search and Adaptation](http://dx.doi.org/10.1177/0001839218766310)**  
 (with JP Eggers and Nils Stieglitz). *Administrative Science Quarterly* (forthcoming).
@@ -50,6 +52,8 @@ My research addresses questions of organizational design, learning, and adaptati
 (with Nils Stieglitz). *Strategic Management Journal* 35 (2014): 358-375.
 
 ## Other Publications (Organization Design, Business Venturing, Health Care, Information Systems)
+
+**[Reviewing, Revisiting, and Renewing the Foundations of Organization Design](https://doi.org/10.1108/S0742-332220180000040012)** (with John Joseph, Richard Burton and Kannan Srikanth). *Organization Design (Advances in Strategic Management*) 40 (2018), Emerald Publishing Limited, 1-23. 
 
 **[Rocket Internet: Organizing a Startup Factory](https://doi.org/10.1186/s41469-018-0037-2)** (with Carsten Bergenholtz, Lars Frederiksen, Robert M. Grant, Rebecca Köhler, David L. Preston and Scott Shane). *Journal of Organization Design* 7 (2018).
 
