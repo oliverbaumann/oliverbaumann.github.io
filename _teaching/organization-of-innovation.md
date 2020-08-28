@@ -4,7 +4,7 @@ collection: teaching
 type: "M.Sc. in Business and Economics"
 permalink: /teaching/organization-of-innovation
 venue: "University of Southern Denmark"
-date: 2018-02-01
+date: 2020-02-01
 location: "Odense, Denmark"
 ---
 
