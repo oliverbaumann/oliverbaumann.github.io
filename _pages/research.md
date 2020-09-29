@@ -12,7 +12,7 @@ My research addresses questions of organizational design, learning, and adaptati
 
 ## Dealing with Complexity
 
-**[Ensuring Adaptation While Seeking Efficiency: Tiered Outsourcing and Skip-Level Supplier Ties in the Airbus A350 Program](https://doi.org/10.1287/orsc.2019.1341)** (with Markus C. Becker and Isabel Horrmann). *Organization Science*, online in advance.
+**[Ensuring Adaptation While Seeking Efficiency: Tiered Outsourcing and Skip-Level Supplier Ties in the Airbus A350 Program](https://doi.org/10.1287/orsc.2019.1341)** (with Markus C. Becker and Isabel Horrmann). *Organization Science*, 31 (2020): 1176-1197.
 
 **[Effective Search in Rugged Performance Landscapes: A Review and Outlook](https://doi.org/10.1177%2F0149206318808594)** (with Jens Schmidt and Nils Stieglitz). *Journal of Management*, 45 (2019): 258-318.
 
