@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Controlling Innovation in Complex Organizations  
-*[The Independent Research Fund Denmark (DFF/FSE)](https://dff.dk/en), 2017-2021*
+*[The Independent Research Fund Denmark (DFF/FSE)](https://dff.dk/en), 2017-2022*
 
 Many firms have delegated innovation: rather than tasking only a central research and development center, firms seek to harness the creative capacity of the entire organization. When delegating innovation to lower organizational levels, however, corporate managers must coordinate a complex system: multiple units that innovate within their individual purview, but which are interdependent in various ways and thus collectively shape the organization’s behavior.
 
