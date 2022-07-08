@@ -19,4 +19,4 @@ Currently a co-editor of the [Journal of Organization Design](https://www.spring
 
 I received a PhD in Business Economics from LMU Munich, an MS in Industrial Engineering from the University of Karlsruhe, and an MS in Engineering Management from Portland State University. I am currently a Professor with special responsibilities at the [University of Southern Denmark (SDU)](http://sdu.dk), where I am a part of the [Strategic Organization Design](http://www.sod-research.com) unit. Prior to joining the University of Southern Denmark, I was a visiting scholar at the Wharton School, University of Pennsylvania, and an Assistant Professor at LMU Munich.
 
-A complete CV can be downloaded here: [CV Oliver Baumann (Feb 2021)](http://oliverbaumann.github.io/files/Oliver_Baumann_CV_Feb2021.pdf)
+A complete CV can be downloaded here: [CV Oliver Baumann (June 2022)](http://oliverbaumann.github.io/files/Oliver_Baumann_CV_June2022.pdf)
