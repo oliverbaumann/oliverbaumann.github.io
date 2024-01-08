@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae (June 2022)](http://oliverbaumann.github.io/files/Oliver_Baumann_CV_June2022.pdf)
+[Curriculum Vitae (December 2023)](http://oliverbaumann.github.io/files/Oliver_Baumann_CV_December2023.pdf)
 
 I am an industrial engineer turned organizational scholar. I am fascinated by the notion of organizations as complex adaptive systems and by the power of computational social science for understanding their dynamics. My research focuses on questions at the intersection of organizational design, strategy, and innovation. It is mainly theoretical, but seeks to build bridges to various application domains such as corporate strategy or new product development. In particular, I address two broad questions:
 
