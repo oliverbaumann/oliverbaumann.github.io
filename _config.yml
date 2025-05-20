@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Oliver Baumann"
   avatar           : "OliverBaumann.png"
-  bio              : "Professor of Strategic Organization Design, University of Southern Denmark"
+  bio              : "Professor of Strategy and Organization, University of Southern Denmark"
   location         : "Odense, Denmark"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=u5sAPZYAAAAJ&hl=en"
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "OliverBaumannDK"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
