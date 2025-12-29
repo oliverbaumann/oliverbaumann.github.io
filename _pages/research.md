@@ -1,16 +1,11 @@
 ---
 layout: single
-title: "Research"
+title: "Research and Publications"
 permalink: /research/
 author_profile: true
 ---
 
-My research addresses questions of organizational design, learning, and adaptation. In particular, my focus is on two broad questions:
-
-1. How does organizational design affect a firm's ability to deal with complex (interdependent) decision problems?
-2. How does organizational design affect a firm's ability to learn and adapt?
-
-## Publications
+**[The Blind Men and the Elephant: Mapping Interdisciplinarity in Research on Decentralized Autonomous Organizations](https://doi.org/10.1007/s41469-025-00200-9)** (with Giorgia Sampò and Marco Peressotti). *Journal of Organization Design*, 14 (2025), 239-263.
 
 **[How Mixed Performance Feedback Shapes Exploration: The Moderating Role of Self-Enhancement](https://doi.org/10.1287/orsc.2021.15676)** (with Franziska Lauenstein and Daniel Newark). *Organization Science*, 36 (2025): 166–185.
 
