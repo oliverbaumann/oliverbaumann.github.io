@@ -14,7 +14,7 @@ I am a Professor of Strategy and Organization Design at the [University of South
 
 My research explores the **architecture of adaptation**: how organizations design structures and decision processes to learn and innovate in uncertain environments. I treat organizations as complex adaptive systems, using computational modeling (NK landscapes, reinforcement learning), experiments, field studies, and digital trace data to understand how formal design interacts with human behavior.
  
-My current work investigates this dynamic across three distinct organizational contexts:
+My current work focuses on three distinct organizational contexts:
 
 1. **Traditional hierarchies**: How performance feedback shapes search. I examine how individuals interpret and report information, revealing the role of social comparison in driving experimentation and the paradoxical benefits of "sugarcoating" bad news.
 
