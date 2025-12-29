@@ -16,11 +16,11 @@ My research explores the **architecture of adaptation**: how organizations desig
  
 My current work investigates this dynamic across three distinct organizational contexts:
 
-1. Traditional hierarchies: How performance feedback shapes search. I examine how individuals interpret and report information, revealing the role of social comparison in driving experimentation and the paradoxical benefits of "sugarcoating" bad news.
+1. **Traditional hierarchies**: How performance feedback shapes search. I examine how individuals interpret and report information, revealing the role of social comparison in driving experimentation and the paradoxical benefits of "sugarcoating" bad news.
 
-2. Human-AI systems: How structures adapt to algorithmic influence. I investigate how decision rights evolve when AI augments human judgment, and how platform dominance reshapes news ecosystems and democratic discourse.
+2. **Human-AI systems**: How structures adapt to algorithmic influence. I investigate how decision rights evolve when AI augments human judgment, and how platform dominance reshapes news ecosystems and democratic discourse.
 
-3. Decentralized networks: How coordination emerges without hierarchy. I explore Decentralized Autonomous Organizations (DAOs) as socio-technical systems, investigating the possibilities and limits of replacing managerial authority with algorithmic code.
+3. **Decentralized networks**: How coordination emerges without hierarchy. I explore Decentralized Autonomous Organizations (DAOs) as socio-technical systems, investigating the possibilities and limits of replacing managerial authority with algorithmic code.
 
 I am a co-editor of the [Journal of Organization Design](https://www.springer.com/journal/41469) and serve on the editorial boards of Academy of Management Discoveries, Organization Science, and the Strategic Management Journal. My research has been published in Administrative Science Quarterly, Journal of Management, Organization Science, the Strategic Management Journal, and other outlets.
 
