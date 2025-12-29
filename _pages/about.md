@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae (December 2023)](http://oliverbaumann.github.io/files/Oliver_Baumann_CV_December2023.pdf)
+[Curriculum Vitae (December 2025)](http://oliverbaumann.github.io/files/Oliver_Baumann_CV_December2025.pdf)
 
 I am a Professor of Strategy and Organization Design at the [University of Southern Denmark (SDU)](https://sdu.dk), where I lead the [Strategic Organization Design](http://www.sod-research.com) research unit at the [Department of Business and Management](https://www.sdu.dk/en/om-sdu/institutter-centre/i_virksomhedsledelse). I am also affiliated with the [Digital Democracy Center](www.sdu.dk/ddc). 
 
