@@ -74,13 +74,7 @@ Current and historical course portfolio is available on the [Teaching page](/tea
 
 ## Professional Service and University Service
 
-Professional roles and service activities are available on the [Professional Service page](/service/).
-
-Highlights include:
-- Co-Editor and editorial board service across major journals
-- Conference and PDW organization at AOM, SMS, TOM, DRUID, and ODC
-- Leadership and governance roles at SDU
-- Supervision of more than 140 theses and broad PhD assessment contributions
+Editorial and broader service highlights include co-editor and editorial board roles, conference and PDW organization at AOM/SMS/TOM/DRUID/ODC, governance contributions at SDU, and supervision of more than 140 theses.
 
 ## Grants and Awards
 
