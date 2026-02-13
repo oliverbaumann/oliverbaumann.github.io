@@ -2,6 +2,7 @@
 permalink: /
 title: "About"
 excerpt: "Professor of Strategy and Organization Design"
+description: "Oliver Baumann is Professor of Strategy and Organization Design at the University of Southern Denmark, researching organizational adaptation, AI, and decentralized governance."
 author_profile: true
 redirect_from:
   - /about/
@@ -38,12 +39,14 @@ My research examines the architecture of adaptation: how organizations design st
 - Co-Editor, [Journal of Organization Design](https://www.springer.com/journal/41469)
 - Editorial boards: *Academy of Management Discoveries*, *Organization Science*, *Strategic Management Journal*
 
-## Selected Publications
+## Selected Publications (Most Recent)
 
-- **[How Mixed Performance Feedback Shapes Exploration: The Moderating Role of Self-Enhancement](https://doi.org/10.1287/orsc.2021.15676)** (with Franziska Lauenstein and Daniel Newark). *Organization Science* (2025).
-- **[The Blind Men and the Elephant: Mapping Interdisciplinarity in Research on Decentralized Autonomous Organizations](https://doi.org/10.1007/s41469-025-00200-9)** (with Giorgia Sampò and Marco Peressotti). *Journal of Organization Design* (2025).
-- **[Colleagues and Competitors: How Internal Social Comparisons Shape Organizational Search and Adaptation](https://doi.org/10.1177/0001839218766310)** (with JP Eggers and Nils Stieglitz). *Administrative Science Quarterly* (2019).
-- **[Effective Search in Rugged Performance Landscapes: A Review and Outlook](https://doi.org/10.1177/0149206318808594)** (with Jens Schmidt and Nils Stieglitz). *Journal of Management* (2019).
+{% assign recent_pubs = site.data.publications | sort: "year" | reverse %}
+{% for pub in recent_pubs limit: 5 %}
+- **{{ pub.title }}**{% if pub.authors %} ({{ pub.authors }}){% endif %}. {{ pub.venue }}{% if pub.link %} <a href="{{ pub.link }}" target="_blank" rel="noopener noreferrer">{% if pub.link contains "doi.org" %}<span class="ob-doi-badge">DOI</span>{% else %}<span class="ob-doi-badge ob-doi-badge--alt">Paper</span>{% endif %}</a>{% endif %}
+{% endfor %}
+
+[See full publication list](/research/)
 
 ## Education
 

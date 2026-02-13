@@ -60,13 +60,18 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "OliverBaumann2.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Oliver Baumann"
+  links:
+    - "https://orcid.org/0000-0002-0797-9464"
+    - "https://scholar.google.com/citations?user=u5sAPZYAAAAJ&hl=en"
+    - "https://www.linkedin.com/in/oliverbaumann"
+    - "https://www.sdu.dk"
+    - "http://www.sod-research.com"
 
 
 # Analytics
@@ -85,7 +90,7 @@ author:
   employer         : "University of Southern Denmark"
   googlescholar    : "https://scholar.google.com/citations?user=u5sAPZYAAAAJ&hl=en"
   email            : "oliv@sam.sdu.dk"
-  uri              :
+  uri              : "https://oliverbaumann.github.io"
   bitbucket        :
   codepen          :
   dribbble         :

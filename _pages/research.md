@@ -2,6 +2,7 @@
 layout: single
 title: "Research and Publications"
 permalink: /research/
+description: "Comprehensive publication list of Oliver Baumann, including recent work on organization design, search, AI, and decentralized governance."
 author_profile: true
 ---
 
