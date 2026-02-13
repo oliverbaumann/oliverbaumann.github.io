@@ -2,6 +2,7 @@
 layout: single
 title: "CV"
 permalink: /cv/
+description: "Curriculum vitae of Oliver Baumann, including appointments, education, publications, teaching, service, grants, and awards."
 author_profile: true
 redirect_from:
   - /resume
@@ -11,49 +12,81 @@ redirect_from:
 <strong>Full PDF:</strong> <a href="/files/Oliver_Baumann_CV_December2025.pdf">Download the complete CV (December 2025)</a>
 </div>
 
+## Contact
+
+Department of Business and Management, University of Southern Denmark (SDU)  
+Campusvej 55, 5230 Odense M, Denmark  
++45 6550 4433  
+[oliv@sam.sdu.dk](mailto:oliv@sam.sdu.dk)
+
 ## Current Position
 
-**Professor of Strategy and Organization Design**  
-Department of Business and Management, University of Southern Denmark (SDU)
+**Professor of Strategy and Organization Design** (2017-present)  
+University of Southern Denmark (SDU)
 
-## Research Profile
+Additional roles:
+- Head of Research Unit, Strategic Organization Design
+- Member of Department Management Team
 
-I study how organizations adapt under complexity and uncertainty, with three central streams:
+## Previous Appointments
 
-- organizational search and performance feedback
-- organization design in human-AI settings
-- decentralized governance and DAOs
+### Primary
+- Associate Professor of Strategy and Organization Design, SDU (2011-2017)
+- Assistant Professor of Management, LMU Munich (2008-2011)
+- Research and Teaching Associate, LMU Munich (2004-2008)
 
-## Methods
-
-- computational modeling (e.g., NK landscapes, reinforcement learning)
-- experiments
-- field research
-- digital trace data
-
-## Editorial Roles
-
-- Co-Editor, *Journal of Organization Design*
-- Editorial board member, *Academy of Management Discoveries*
-- Editorial board member, *Organization Science*
-- Editorial board member, *Strategic Management Journal*
+### Affiliate
+- Visiting Scholar, Max Planck Institute for Innovation and Competition (2016)
+- Visiting Scholar, Wharton School, University of Pennsylvania (2010)
+- Visiting Professor, Universite de Strasbourg / Ecole de Management Strasbourg (2009-2012)
+- Visiting PhD Student, Wharton School, University of Pennsylvania (2007)
 
 ## Education
 
-- **PhD**, Business Economics, LMU Munich
-- **MS**, Industrial Engineering and Management, Karlsruhe Institute of Technology
-- **MS**, Engineering Management, Portland State University
+- PhD in Business Economics (summa cum laude), LMU Munich (2008)
+- Master of Business Research, LMU Munich (2007)
+- MSc in Industrial Engineering and Management (with distinction), Karlsruhe Institute of Technology (2004)
+- MSc in Engineering Management, Portland State University (2003)
 
-## Prior Academic Appointments
+## Research Interests
 
-- Assistant Professor, LMU Munich
-- Visiting Scholar, The Wharton School, University of Pennsylvania
+Organizational learning and adaptation, organization design, behavioral strategy, organizational decision making, computational and experimental methods.
 
-## Selected Publications
+## Publications
 
-- **[How Mixed Performance Feedback Shapes Exploration: The Moderating Role of Self-Enhancement](https://doi.org/10.1287/orsc.2021.15676)** (with Franziska Lauenstein and Daniel Newark). *Organization Science* (2025).
-- **[The Blind Men and the Elephant: Mapping Interdisciplinarity in Research on Decentralized Autonomous Organizations](https://doi.org/10.1007/s41469-025-00200-9)** (with Giorgia Sampò and Marco Peressotti). *Journal of Organization Design* (2025).
-- **[Ensuring Adaptation While Seeking Efficiency: Tiered Outsourcing and Skip-Level Supplier Ties in the Airbus A350 Program](https://doi.org/10.1287/orsc.2019.1341)** (with Markus C. Becker and Isabel Horrmann). *Organization Science* (2020).
-- **[Colleagues and Competitors: How Internal Social Comparisons Shape Organizational Search and Adaptation](https://doi.org/10.1177/0001839218766310)** (with JP Eggers and Nils Stieglitz). *Administrative Science Quarterly* (2019).
+A comprehensive, categorized publication list is available on the [Research and Publications page](/research/).
 
-For the full publication list, see [Research and Publications](/research/).
+Publication categories covered:
+- Articles in refereed journals
+- Edited special issues, books, and book chapters
+- Refereed conference proceedings
+- Practitioner publications
+- Working papers
+
+## Teaching
+
+Teaching interests:
+- Organization theory and organization design
+- Business and corporate strategy
+- Strategy implementation and performance management
+
+Current and historical course portfolio is available on the [Teaching page](/teaching/).
+
+## Professional Service and University Service
+
+Professional roles and service activities are available on the [Professional Service page](/service/).
+
+Highlights include:
+- Co-Editor and editorial board service across major journals
+- Conference and PDW organization at AOM, SMS, TOM, DRUID, and ODC
+- Leadership and governance roles at SDU
+- Supervision of more than 140 theses and broad PhD assessment contributions
+
+## Grants and Awards
+
+A full summary is available on the [Grants and Awards page](/grants-awards/).
+
+Selected highlights:
+- DFF/FSE funded project: "Controlling Innovation in Complex Organizations" (2017-2023)
+- ERC Consolidator Grant second-round interview stage (2020)
+- Multiple dissertation and reviewer awards

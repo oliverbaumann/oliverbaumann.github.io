@@ -39,9 +39,9 @@ My research examines the architecture of adaptation: how organizations design st
 - Co-Editor, [Journal of Organization Design](https://www.springer.com/journal/41469)
 - Editorial boards: *Academy of Management Discoveries*, *Organization Science*, *Strategic Management Journal*
 
-## Selected Publications (Most Recent)
+## Recent Publications
 
-{% assign recent_pubs = site.data.publications | sort: "year" | reverse %}
+{% assign recent_pubs = site.data.publications | where: "type", "journal" | sort: "year" | reverse %}
 {% for pub in recent_pubs limit: 5 %}
 - **{{ pub.title }}**{% if pub.authors %} ({{ pub.authors }}){% endif %}. {{ pub.venue }}{% if pub.link %} <a href="{{ pub.link }}" target="_blank" rel="noopener noreferrer">{% if pub.link contains "doi.org" %}<span class="ob-doi-badge">DOI</span>{% else %}<span class="ob-doi-badge ob-doi-badge--alt">Paper</span>{% endif %}</a>{% endif %}
 {% endfor %}
