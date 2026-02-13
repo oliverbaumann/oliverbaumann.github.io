@@ -78,9 +78,4 @@ Editorial and broader service highlights include co-editor and editorial board r
 
 ## Grants and Awards
 
-A full summary is available on the [Grants and Awards page](/grants-awards/).
-
-Selected highlights:
-- DFF/FSE funded project: "Controlling Innovation in Complex Organizations" (2017-2023)
-- ERC Consolidator Grant second-round interview stage (2020)
-- Multiple dissertation and reviewer awards
+Selected highlights include a major DFF/FSE-funded project (2017-2023), ERC Consolidator Grant second-round interview stage (2020), and multiple dissertation and reviewer awards.
