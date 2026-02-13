@@ -5,16 +5,15 @@ permalink: /funding/
 author_profile: true
 ---
 
-## Controlling Innovation in Complex Organizations  
-*[The Independent Research Fund Denmark (DFF/FSE)](https://dff.dk/en), 2017-2022*
+## Independent Research Fund Denmark (DFF/FSE), 2017-2022
 
-Many firms have delegated innovation: rather than tasking only a central research and development center, firms seek to harness the creative capacity of the entire organization. When delegating innovation to lower organizational levels, however, corporate managers must coordinate a complex system: multiple units that innovate within their individual purview, but which are interdependent in various ways and thus collectively shape the organization’s behavior.
+**Project:** *Controlling Innovation in Complex Organizations*
 
-But how can managers then ensure that the units engage in the “right” innovation efforts – those that are best for the organization as a whole and that balance incremental refinements of existing competencies with the discovery of novel and radically different ones?
+Many organizations increasingly delegate innovation to lower organizational levels rather than relying on a central R&D function. This creates a major coordination problem: local innovation efforts are interdependent, and their aggregate effects determine whether adaptation succeeds at the system level.
 
-One lever through which managers direct the collective actions of such complex organizations is through firms’ control systems: managers design goals and strategic plans for lower-level units, provide performance feedback, and adjust goals and plans accordingly. Our understanding of how to control innovation, however, is limited by two gaps in extant theory:
+This project examined how management control systems can shape these distributed innovation processes. Two core questions guided the work:
 
-1. an aggregation problem: how lower-level innovation efforts in response to a control system translate to organization-level outcomes
-2. and an adaptation problem: how the control system itself should adapt, given that innovation is often triggered by a changing environment
+1. How do local innovation responses to control systems aggregate into organization-level outcomes?
+2. How should control systems themselves adapt when environments change?
 
-Combining work in organization science with insights from management accounting and control theory allows addressing these questions.
+By combining organization science with management accounting and control theory, the project contributes to understanding how firms can balance experimentation, coordination, and strategic direction under complexity.

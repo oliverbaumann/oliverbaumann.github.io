@@ -5,15 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-My teaching interests revolve around the following topics:
+I teach strategy and organization design across graduate and executive programs, with a focus on analytical rigor, practical relevance, and evidence-based decision making.
 
-1. Organization theory and organization design
-2. Business and corporate strategy
-3. Strategy execution and performance management
+## Teaching Areas
 
-I have been teaching various courses at the B.Sc., M.Sc., and executive level, at the University of Southern Denmark, the University of Munich, and the University of Strasbourg.
+- organization theory and organization design
+- corporate and business strategy
+- strategy execution and performance management
 
-Currently, I am teaching the following courses:
+I have taught at the University of Southern Denmark, LMU Munich, and the University of Strasbourg.
+
+## Current Course Portfolio
 
 {% include base_path %}
 

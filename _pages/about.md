@@ -1,27 +1,54 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "Professor of Strategy and Organization Design"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-[Curriculum Vitae (December 2025)](http://oliverbaumann.github.io/files/Oliver_Baumann_CV_December2025.pdf)
+I am a Professor of Strategy and Organization Design at the [University of Southern Denmark (SDU)](https://www.sdu.dk), where I lead the [Strategic Organization Design](http://www.sod-research.com) research unit at the Department of Business and Management. I am also affiliated with the [Digital Democracy Center](https://www.sdu.dk/ddc).
 
-I am a Professor of Strategy and Organization Design at the [University of Southern Denmark (SDU)](https://sdu.dk), where I lead the [Strategic Organization Design](http://www.sod-research.com) research unit at the [Department of Business and Management](https://www.sdu.dk/en/om-sdu/institutter-centre/i_virksomhedsledelse). I am also affiliated with the [Digital Democracy Center](www.sdu.dk/ddc). 
+My research examines the architecture of adaptation: how organizations design structures and decision processes to learn and innovate under uncertainty. I combine computational modeling (including NK landscapes and reinforcement learning), experiments, field studies, and digital trace data to understand how formal design interacts with behavior.
 
-My research explores the **architecture of adaptation**: how organizations design structures and decision processes to learn and innovate in uncertain environments. I treat organizations as complex adaptive systems, using computational modeling (NK landscapes, reinforcement learning), experiments, field studies, and digital trace data to understand how formal design interacts with human behavior.
- 
-My current work focuses on three distinct organizational contexts:
+<div class="ob-callout">
+<strong>Download CV:</strong> <a href="/files/Oliver_Baumann_CV_December2025.pdf">Oliver Baumann CV (December 2025)</a>
+</div>
 
-1. **Traditional hierarchies**: How performance feedback shapes search. I examine how individuals interpret and report information, revealing the role of social comparison in driving experimentation and the paradoxical benefits of "sugarcoating" bad news.
+## Research Areas
 
-2. **Human-AI systems**: How structures adapt to algorithmic influence. I investigate how decision rights evolve when AI augments human judgment, and how platform dominance reshapes news ecosystems and democratic discourse.
+<div class="ob-grid">
+  <div class="ob-card">
+    <h3>Performance Feedback and Search</h3>
+    <p>How social comparison, aspiration levels, and self-enhancement shape exploration, adaptation, and innovation outcomes.</p>
+  </div>
+  <div class="ob-card">
+    <h3>Organization Design in Human-AI Systems</h3>
+    <p>How decision rights, hierarchy, and coordination evolve when algorithmic systems influence managerial judgment.</p>
+  </div>
+  <div class="ob-card">
+    <h3>Decentralized Organizing</h3>
+    <p>How coordination emerges in DAOs and other networked structures where authority is partially replaced by code.</p>
+  </div>
+</div>
 
-3. **Decentralized networks**: How coordination emerges without hierarchy. I explore Decentralized Autonomous Organizations (DAOs) as socio-technical systems, investigating the possibilities and limits of replacing managerial authority with algorithmic code.
+## Roles and Service
 
-I am a co-editor of the [Journal of Organization Design](https://www.springer.com/journal/41469) and serve on the editorial boards of Academy of Management Discoveries, Organization Science, and the Strategic Management Journal. My research has been published in Administrative Science Quarterly, Journal of Management, Organization Science, the Strategic Management Journal, and other outlets.
+- Co-Editor, [Journal of Organization Design](https://www.springer.com/journal/41469)
+- Editorial boards: *Academy of Management Discoveries*, *Organization Science*, *Strategic Management Journal*
 
-I received a PhD in Business Economics from LMU Munich, an MS in Industrial Engineering and Management from Karlsruhe Institute of Technology, and an MS in Engineering Management from Portland State University. Before joining SDU, I was an Assistant Professor at LMU Munich and a visiting scholar at the Wharton School, University of Pennsylvania.
+## Selected Publications
+
+- **[How Mixed Performance Feedback Shapes Exploration: The Moderating Role of Self-Enhancement](https://doi.org/10.1287/orsc.2021.15676)** (with Franziska Lauenstein and Daniel Newark). *Organization Science* (2025).
+- **[The Blind Men and the Elephant: Mapping Interdisciplinarity in Research on Decentralized Autonomous Organizations](https://doi.org/10.1007/s41469-025-00200-9)** (with Giorgia Sampò and Marco Peressotti). *Journal of Organization Design* (2025).
+- **[Colleagues and Competitors: How Internal Social Comparisons Shape Organizational Search and Adaptation](https://doi.org/10.1177/0001839218766310)** (with JP Eggers and Nils Stieglitz). *Administrative Science Quarterly* (2019).
+- **[Effective Search in Rugged Performance Landscapes: A Review and Outlook](https://doi.org/10.1177/0149206318808594)** (with Jens Schmidt and Nils Stieglitz). *Journal of Management* (2019).
+
+## Education
+
+- PhD in Business Economics, LMU Munich
+- MS in Industrial Engineering and Management, Karlsruhe Institute of Technology
+- MS in Engineering Management, Portland State University
+
+Before joining SDU, I was an Assistant Professor at LMU Munich and a Visiting Scholar at the Wharton School, University of Pennsylvania.

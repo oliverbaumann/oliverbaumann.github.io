@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Oliver Baumann"
 title_separator          : "-"
 name                     : &name "Oliver Baumann - Strategic Organization Design - University of Southern Denmark (SDU)"
-description              : &description "Research and CV of Oliver Baumann - University of Southern Denmark"
+description              : &description "Research, teaching, and academic service of Oliver Baumann"
 url                      : https://oliverbaumann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oliverbaumann.github.io"
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Oliver Baumann"
   avatar           : "OliverBaumann2.jpg"
-  bio              : "Professor of Strategy and Organization Design, University of Southern Denmark"
+  bio              : "Professor of Strategy and Organization Design"
   location         : "Odense, Denmark"
-  employer         :
+  employer         : "University of Southern Denmark"
   googlescholar    : "https://scholar.google.com/citations?user=u5sAPZYAAAAJ&hl=en"
   email            : "oliv@sam.sdu.dk"
   uri              :
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Copenhagen # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
